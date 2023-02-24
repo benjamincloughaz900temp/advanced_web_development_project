@@ -68,3 +68,4 @@ class User:
         self.surname = surname
 
     def load_workout(self):
+        pass

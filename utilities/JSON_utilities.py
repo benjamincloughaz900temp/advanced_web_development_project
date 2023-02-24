@@ -1,5 +1,3 @@
 
-def get_exercise_sets_from_workout(self, json_object: dict):
-
-
-def get_workout
+def package_exercise_weight_maximums_JSON(**exercises):
+    pass
